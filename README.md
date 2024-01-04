@@ -3,7 +3,6 @@
 ## Tabela do Conteudo
 
 <ul>
-<li><a href="#sobre">Sobre</a></li>
 <li><a href="#status">Status</a></li>
 <li><a href="#objetivo">Objetivo</a></li>
 <li><a href="#curiosidade">Curiosidade</a></li>
